@@ -1,0 +1,64 @@
+body{
+	background-color: #838383;
+}
+.container{
+	margin-top: 60px;
+}
+#navigation .nav-link{
+	font-weight: bold;
+	color: #FFFFFF;
+	margin: 2px;
+	padding: 4px;
+}
+.navbar-dark{
+	background-color: #000;
+}
+#navigation .nav-link:hover {
+    background-color: #FFF;
+    color: #000;
+}
+.card{
+	margin: 3px;
+}
+h3{
+	text-align: center;
+}
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: Black;
+  
+
+}
+#links ul{
+	list-style-type: none;
+}
+#links ul li a{
+	color: #000;
+	text-decoration: none;
+}
+.fa-instagram {
+  color: transparent;
+  background: -webkit-radial-gradient(30% 107%, circle, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -o-radial-gradient(30% 107%, circle, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+#links i {
+  padding: 10px;
+  text-shadow: 0px 6px 8px rgba(0, 0, 0, 0.6);
+  transition: all ease-in-out 150ms;
+}
+#links i:hover {
+  top: -3px;
+  text-shadow: 0px 14px 10px rgba(0, 0, 0, 0.4);
+}
+
+#footer {
+  
+}
