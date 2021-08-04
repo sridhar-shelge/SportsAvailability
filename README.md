@@ -9,4 +9,4 @@ All the data is Stored is MySQL and admin page has all the available data of reg
 2.PHP,MySQL
 
 # Report of project
-[Project Report](../projectReport.pdf)
+[Project Report](../blob/master/projectReport.pdf)
